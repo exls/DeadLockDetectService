@@ -16,7 +16,8 @@ Installation
 git clone https://github.com/exls/DeadLockDetectService.git
 ```
 
-##### Use
+Use
+----
 
 Put this code in your application
 ```
